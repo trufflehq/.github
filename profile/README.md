@@ -12,6 +12,6 @@ We're building cool shit for creators. Care to join us?
 - [Website]
 - [Twitter]
 
-[Developer Discord Server]: https://discord.gg/FahQSBMMGg
+[Developer Discord Server]: https://discord.gg/Pc79Ye2xkc
 [Website]: https://truffle.vip
 [Twitter]: https://twitter.com/trufflevip
